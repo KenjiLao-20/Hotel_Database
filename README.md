@@ -1,4 +1,4 @@
-# 🏨 Hotel Concierge & Billing System
+#  Hotel Concierge & Billing System
 
 ![PHP](https://img.shields.io/badge/PHP-8.2-blue?logo=php)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?logo=mysql)
@@ -6,11 +6,11 @@
 ![CSS](https://img.shields.io/badge/CSS-3-purple?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
 
-## 📋 Project Overview
+##  Project Overview
 
 The **Hotel Concierge & Billing System** is a full-stack database-driven application developed as the capstone project for Database Systems 1. It manages complete hotel operations including guest registration, room booking, service ordering, and automated billing with tax calculation.
 
-### 🎯 Key Features
+###  Key Features
 
 - ✅ Complete CRUD Operations - Create, Read, Update, Delete for all entities
 - ✅ Guest Management - Register and manage guest information
@@ -25,7 +25,7 @@ The **Hotel Concierge & Billing System** is a full-stack database-driven applica
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology | Purpose |
 |-------|------------|---------|
@@ -37,7 +37,7 @@ The **Hotel Concierge & Billing System** is a full-stack database-driven applica
 
 ---
 
-## 📁 Database Schema (3NF)
+##  Database Schema (3NF)
 
 The database contains **6 tables** normalized to Third Normal Form:
 

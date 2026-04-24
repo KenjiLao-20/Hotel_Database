@@ -12,16 +12,16 @@ The **Hotel Concierge & Billing System** is a full-stack database-driven applica
 
 ###  Key Features
 
-- ✅ Complete CRUD Operations - Create, Read, Update, Delete for all entities
-- ✅ Guest Management - Register and manage guest information
-- ✅ Room Inventory - Track room types, pricing, and availability status
-- ✅ Booking System - Create and manage reservations with date validation
-- ✅ Service Menu - Manage hotel services (Restaurant, Spa, MiniBar, Laundry)
-- ✅ Room Orders - Place service orders for active bookings
-- ✅ Automated Billing - Generate invoices with 12% tax calculation
-- ✅ Transaction Logic - Checkout process with rollback capability
-- ✅ Python Integration - Billing engine with email reporting
-- ✅ Professional UI - Modern, responsive design with dark theme
+-  Complete CRUD Operations - Create, Read, Update, Delete for all entities
+-  Guest Management - Register and manage guest information
+-  Room Inventory - Track room types, pricing, and availability status
+-  Booking System - Create and manage reservations with date validation
+-  Service Menu - Manage hotel services (Restaurant, Spa, MiniBar, Laundry)
+-  Room Orders - Place service orders for active bookings
+-  Automated Billing - Generate invoices with 12% tax calculation
+-  Transaction Logic - Checkout process with rollback capability
+-  Python Integration - Billing engine with email reporting
+-  Professional UI - Modern, responsive design with dark theme
 
 ---
 
